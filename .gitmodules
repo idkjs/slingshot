@@ -1,0 +1,6 @@
+[submodule "y-shaped-stick/rock"]
+	path = y-shaped-stick/rock
+	url = https://github.com/idkjs/rock
+[submodule "rock"]
+	path = rock
+	url = https://github.com/idkjs/rock
