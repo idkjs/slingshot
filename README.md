@@ -1,2 +1,2 @@
 # slingshot
- Makefile practice
+ sub modules practice
